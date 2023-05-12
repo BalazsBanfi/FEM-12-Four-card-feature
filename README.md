@@ -53,7 +53,7 @@ I would like to be comfortable with responsive web design techniques, css grid a
 
 - Website - [Bánfi Balázs](https://github.com/BalazsBanfi)
 - Frontend Mentor - [@bally4h](https://www.frontendmentor.io/profile/bally4h)
-- Linkedin - [@banfibalazs](www.linkedin.com/in/banfibalazs)
+- Linkedin - [@banfibalazs](https://www.linkedin.com/in/banfibalazs/)
 )
 
 ## Acknowledgments
