@@ -31,7 +31,7 @@ body {
 
 main {
   width: clamp(343px, 100%, 1440px);
-  height: 100vh;
+  min-height: 100vh;
   background: white;
   padding: 4rem 1rem;
   display: grid;
@@ -94,7 +94,7 @@ h2 {
   width: 65px;
   float: right;
   position: relative;
-  top: 20px;
+  top: 23px;
   right: 13px;
 }
 
