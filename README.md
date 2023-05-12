@@ -46,7 +46,7 @@ I would like to be comfortable with responsive web design techniques, css grid a
 
 ### Useful resources
 
-- [Homepage of Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell helped me in responsive techniques. I really liked his teaching methods and will use it going forward.
+- [Homepage of Kevin Powell](https://www.kevinpowell.co/) - Kevin helpes a lot in responsive techniques. I really liked his teaching style and will follow him in the future also.
 
 
 ## Author
