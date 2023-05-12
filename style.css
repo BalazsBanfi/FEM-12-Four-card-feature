@@ -45,7 +45,7 @@ main {
 ***Title section***
 *******************/
 .title {
-  width: clamp(343px, 70%, 700px);
+  width: clamp(343px, 70%, 530px);
   color: var(--vdBlue);
   text-align: center;
 }
@@ -95,7 +95,6 @@ h2 {
   right: 13px;
 }
 
-
 .lBlue {
   border-top: 4px solid var(--cyan);
 }
@@ -121,24 +120,54 @@ h2 {
     padding: 4rem 1rem;
     grid-template: repeat(4, 1fr) / 1fr 1fr;
   }
-  
+
   .title {
     grid-column: 1 / 3;
   }
   .lBlue {
     justify-self: end;
   }
-  
+
   .red {
     justify-self: start;
   }
-  
+
   .orange {
     justify-self: end;
   }
-  
+
   .dBlue {
     justify-self: start;
   }
-  
+}
+
+@media screen and (min-width: 1125px) {
+  main {
+    grid-template: 2fr repeat(4, 1fr) / 1fr min-content 1fr;
+  }
+
+  .title {
+    grid-column: 1 / 4;
+  }
+  .lBlue {
+    grid-row: 3 / 5;
+    justify-self: end;
+  }
+
+  .red {
+    grid-row: 2 / 4;
+    justify-self: center;
+    align-self: flex-end;
+  }
+
+  .orange {
+    grid-row: 4 / 6;
+    justify-self: center;
+    align-self: flex-start;
+  }
+
+  .dBlue {
+    grid-row: 3 / 5;
+    justify-self: start;
+  }
 }
