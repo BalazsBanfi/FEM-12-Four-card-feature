@@ -3,7 +3,7 @@
   --cyan: hsl(180, 62%, 55%);
   --orange: hsl(34, 97%, 64%);
   --blue: hsl(212, 86%, 64%);
-  
+
   --vdBlue: hsl(234, 12%, 34%);
   --grayishBlue: hsl(229, 6%, 66%);
   --vlGray: hsl(0, 0%, 98%);
@@ -25,8 +25,8 @@ body {
   display: grid;
   place-items: center;
   text-align: left;
-  font-size: 16px;
-  font-family: "League Spartan", sans-serif;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
 }
 
 main {
@@ -44,28 +44,21 @@ main {
 ***Title section***
 *******************/
 
-
 /********************
 ***Ratings section***
 ********************/
-
 
 /*******************
 ***Bottom section***
 *******************/
 
-
-
 /*****************
 ***User section***
 *****************/
-
-
 
 /************************
 ***Media query section***
 ************************/
 
 @media screen and (min-width: 875px) {
-
 }
