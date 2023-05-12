@@ -19,8 +19,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![Mobile screenshot](./images/mobile.jpg)
-![Desktop screenshot](./images/desktop.jpg)
+![Mobile screenshot](./images/mobile.png)
+![Desktop screenshot](./images/desktop.png)
 
 
 ### Links
