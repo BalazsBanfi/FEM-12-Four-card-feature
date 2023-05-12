@@ -1,0 +1,71 @@
+:root {
+  --red: hsl(0, 78%, 62%);
+  --cyan: hsl(180, 62%, 55%);
+  --orange: hsl(34, 97%, 64%);
+  --blue: hsl(212, 86%, 64%);
+  
+  --vdBlue: hsl(234, 12%, 34%);
+  --grayishBlue: hsl(229, 6%, 66%);
+  --vlGray: hsl(0, 0%, 98%);
+}
+
+* {
+  /* border: 1px solid red; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*****************
+***Body section***
+******************/
+
+body {
+  background-color: #ddd;
+  display: grid;
+  place-items: center;
+  text-align: left;
+  font-size: 16px;
+  font-family: "League Spartan", sans-serif;
+}
+
+main {
+  width: clamp(375px, 100vw, 1440px);
+  height: 100vh;
+  background: var(--white);
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 2rem;
+}
+
+/******************
+***Title section***
+*******************/
+
+
+/********************
+***Ratings section***
+********************/
+
+
+/*******************
+***Bottom section***
+*******************/
+
+
+
+/*****************
+***User section***
+*****************/
+
+
+
+/************************
+***Media query section***
+************************/
+
+@media screen and (min-width: 875px) {
+
+}
